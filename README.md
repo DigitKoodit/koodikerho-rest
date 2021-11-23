@@ -50,6 +50,7 @@ venv\Scripts\Activate.ps1
 
 5. **Install the PyPI packages:**
 ```
+pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt -r requirements-dev.txt
 ```
 
